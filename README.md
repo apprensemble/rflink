@@ -1,4 +1,4 @@
-# rflink
+# RFLink
 projet RFLink 433Mhz + Domoticz + arduino Mega2560 Pro mini
 
 [Forum Domoticz en français - Rflink pour les nuls par un nul!](https://easydomoticz.com/forum/viewtopic.php?f=22&t=4068)
